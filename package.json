@@ -1,0 +1,27 @@
+{
+  "name": "tryoutalexa",
+  "version": "1.0.0",
+  "description": "Tryout Alexa",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borantaylan/TryoutAlexaServer.git"
+  },
+  "keywords": [
+    "ALEXA"
+  ],
+  "author": "XYZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borantaylan/TryoutAlexaServer/issues"
+  },
+  "homepage": "https://github.com/borantaylan/TryoutAlexaServer#readme"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tryout-skill",
+  "version": "1.0.0",
+  "description": "skill implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skill"
+  ],
+  "author": "XYZ",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.2.0"
+  }
+}
